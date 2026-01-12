@@ -1,0 +1,12 @@
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\bin\Debug\KBV-ManualSoft.exe.config
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\bin\Debug\KBV-ManualSoft.exe
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\bin\Debug\KBV-ManualSoft.pdb
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV-ManualSoft.csproj.AssemblyReference.cache
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV_ManualSoft.Form1.resources
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV_ManualSoft.Properties.Resources.resources
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV-ManualSoft.csproj.GenerateResource.cache
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV-ManualSoft.csproj.CoreCompileInputs.cache
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV-ManualSoft.exe
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV-ManualSoft.pdb
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV-ManualSoft.exe.config
+C:\Users\kiralybence\Documents\GitHub\KBV-ManualSoft\KBV-ManualSoft\KBV-ManualSoft\obj\Debug\KBV_ManualSoft.ChooseDocumentForm.resources

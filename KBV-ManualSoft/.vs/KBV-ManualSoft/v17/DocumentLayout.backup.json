@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|c:\\users\\kiralybence\\documents\\github\\kbv-manualsoft\\kbv-manualsoft\\kbv-manualsoft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|solutionrelative:kbv-manualsoft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|c:\\users\\kiralybence\\documents\\github\\kbv-manualsoft\\kbv-manualsoft\\kbv-manualsoft\\choosedocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|solutionrelative:kbv-manualsoft\\choosedocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|c:\\users\\kiralybence\\documents\\github\\kbv-manualsoft\\kbv-manualsoft\\kbv-manualsoft\\choosedocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|solutionrelative:kbv-manualsoft\\choosedocumentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|c:\\users\\kiralybence\\documents\\github\\kbv-manualsoft\\kbv-manualsoft\\kbv-manualsoft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{211D2FDF-EE8A-4D56-9995-A3F9C58AAEFC}|KBV-ManualSoft\\KBV-ManualSoft.csproj|solutionrelative:kbv-manualsoft\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +26,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChooseDocumentForm.cs",
+              "DocumentMoniker": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\ChooseDocumentForm.cs",
+              "RelativeDocumentMoniker": "KBV-ManualSoft\\ChooseDocumentForm.cs",
+              "ToolTip": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\ChooseDocumentForm.cs",
+              "RelativeToolTip": "KBV-ManualSoft\\ChooseDocumentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:20:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChooseDocumentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\ChooseDocumentForm.cs",
+              "RelativeDocumentMoniker": "KBV-ManualSoft\\ChooseDocumentForm.cs",
+              "ToolTip": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\ChooseDocumentForm.cs [Design]",
+              "RelativeToolTip": "KBV-ManualSoft\\ChooseDocumentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T08:14:34.455Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\Form1.cs",
+              "RelativeDocumentMoniker": "KBV-ManualSoft\\Form1.cs",
+              "ToolTip": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\Form1.cs",
+              "RelativeToolTip": "KBV-ManualSoft\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwEAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T07:14:50.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\kiralybence\\Documents\\GitHub\\KBV-ManualSoft\\KBV-ManualSoft\\KBV-ManualSoft\\Form1.cs",
               "RelativeDocumentMoniker": "KBV-ManualSoft\\Form1.cs",
@@ -27,10 +81,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-05T07:19:50.357Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
