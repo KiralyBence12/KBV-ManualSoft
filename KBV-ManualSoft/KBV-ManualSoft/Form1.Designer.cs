@@ -39,16 +39,16 @@
             // 
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Items.AddRange(new object[] {
-            "GoPro Hero",
-            "HIKMICRO LYNX Hőkamera",
-            "Beko hűtő",
-            "IPhone",
-            "BenQ Monitor",
-            "Tesla Mosógép",
-            "Gorenje Szárítógép",
-            "Samsung TV",
-            "AirFryer",
-            "DeLonghi kávéfőző"});
+            "GoPro Hero.pdf",
+            "HIKMICRO LYNX Hőkamera.pdf",
+            "Beko hűtő.pdf",
+            "IPhone.pdf",
+            "BenQ Monitor.pdf",
+            "Tesla Mosógép.pdf",
+            "Gorenje Szárítógép.pdf",
+            "Samsung TV.pdf",
+            "AirFryer.pdf",
+            "DeLonghi kávéfőző.pdf"});
             this.listBox1.Location = new System.Drawing.Point(12, 46);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(306, 277);
@@ -103,7 +103,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "KBV-ManualSoft";
             this.ResumeLayout(false);
             this.PerformLayout();
 

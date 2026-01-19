@@ -57,12 +57,10 @@ namespace KBV_ManualSoft
 
             if (listBox1.SelectedItem != null)
             {
-                string filePath = (listBox1.SelectedItem.ToString() + ".pdf");
+                string filePath = (listBox1.SelectedItem.ToString());
                 using (var chooseForm = new ChooseDocumentForm())
                 {
                     DialogResult result = chooseForm.ShowDialog();
-                    label1.Visible = true;
-                    label2.Visible = true;
                     if (result == DialogResult.Yes)
                     {
                         switch (listBox1.SelectedIndex)
@@ -99,15 +97,22 @@ namespace KBV_ManualSoft
                                 label2.Text = "DeLonghi kávéfőző – Garancia\nVásárlás dátuma: 2022.09.09\nVásárlás helye: MediaMarkt\nVételár: 159 990 Ft\nGarancia: 2 év\nSzerviz: DeLonghi márkaszerviz";
                                 break;
                         }
+                        label1.Visible = true;
+                        label2.Visible = true;
                     }
                     else if (result == DialogResult.No)
                     {
-                        Process.Start(filePath);
+                        try
+                        {
+                            Process.Start(filePath);
+                        }
+                        catch (Exception)
+                        {
+                            MessageBox.Show("A rendszer nem találja a megadott fájlt.");
+                        }
                     }
                 }
-
             }
-
         }
     }
 }
